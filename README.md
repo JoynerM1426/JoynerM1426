@@ -1,10 +1,10 @@
  👉 Welcome to my espace, I'm Joyner M. Miranda G. 💻
 
---Developer Web FullSatck--Javascript// Typescript// Nodejs// PostgreSQL//ReactJS //Nextjs //Ruby.
+--Developer Web FullSatck--Javascript// Typescript// Nodejs// PostgreSQL// ReactJS //Nextjs //Ruby.
 
 --Others-- Bootstrap, Tailwind, Postman, VScode, Git bash, Sequelize, Express, Redux.
                   
-                                                        <--------------------------------->
+                     <--------------------------------->
    const aboutMe: {
    
        - 🔭 I’m currently working on Making my reality personal in reality...
@@ -18,7 +18,8 @@
        migue1409.mg@gmail.com
        Portfolio:
        https://joynermirandaportfolio.netlify.app/...
-       - ⚡ Fun fact: playCOD 🎮, making a new project💻, learn new stuff about programming 👨‍💻and more🎻🏃‍♂️🥈🎬..
+       - ⚡ Fun fact: playCOD 🎮, making a new project💻,
+       learn new stuff about programming 👨‍💻and more🎻🏃‍♂️🥈🎬..
        
       }
    Console.log(aboutMe)
